@@ -6,6 +6,6 @@ public class RacingFinal {
     //new comment here
     System.out.println("Enter your name: ");
     //j
-
+    //hi
   }
 }
